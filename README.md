@@ -7,4 +7,4 @@ In order to get the best accuracy, it is recommended to look at different callba
 
 Get a greater accuracy than the python notebook or file listed in the master branch!
 
-Notice: If you are uploading a python file, make sure to include your accuracy for your classifier. If using a .ipynb notebook from Colaboratory, make sure you print the accuracy or place it in the metadata.
+Notice: If you are uploading a python file, make sure to include your accuracy as a comment in your classifier. If using a .ipynb notebook from Colaboratory, make sure you print the accuracy or place it in the metadata.
